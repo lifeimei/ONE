@@ -28,7 +28,7 @@ public class Lfm1Activity extends AppCompatActivity {
 
             @Override
             public void onAnimationEnd(Animation animation) {
-             Intent intent= new Intent(Lfm1Activity.this,LfmActivity.class);
+             Intent intent= new Intent(Lfm1Activity.this,AdActivity.class);
                 startActivity(intent);
                 finish();
 

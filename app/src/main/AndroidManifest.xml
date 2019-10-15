@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.LfmActivity"/>
+        <activity android:name=".activity.AdActivity"></activity>
 
     </application>
 
